@@ -141,7 +141,7 @@ We welcome contributions from developers of all skill levels! Here's how you can
 
 If you find our projects helpful, consider giving them a ⭐ star on GitHub!
 
-*Made with ❤️ by the CADI Labs Team*
+*Everything is better with ❤️ by the CADI Labs*
 
 **© 2025 CADI Labs. All rights reserved.**
 
