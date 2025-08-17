@@ -18,37 +18,6 @@ Welcome to **CADI Labs** - where cutting-edge technology meets innovative soluti
 ### 🌟 Our Mission
 We look for innovation everywhere we can. We are not afraid of complexity nor hard work, but we try to keep it elegant and simple when possible - because no project is a good project if no one understands how it works. We love trying new things and discovering solutions using the latest tech available, creating solutions to real world problems.
 
----
-
-## 🔥 Featured Projects
-
-<!-- Add your key repositories here -->
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 CadiBrains
-*AI assistant web and mobile for CADI Lab workers*
-- 🔧 **Tech Stack**: LLMs, RAG, AI/ML
-- 🌐 **Status**: Active Development
-- 📊 **Impact**: Helping collaborators find what they need fast and without toil
-
-[→ View Repository](https://github.com/CaDi-Team/cadibrains)
-
-</td>
-<td width="50%">
-
-### 👶 CadiNiñeras
-*App to find babysitters for our little ones*
-- 🔧 **Tech Stack**: Mobile App, Location Services
-- 🌐 **Status**: Active Development
-- 📊 **Impact**: Connecting families with trusted babysitters nearby
-
-[→ View Repository](https://github.com/CaDi-Team/cadininheras)
-
-</td>
-</tr>
-</table>
 
 ---
 
